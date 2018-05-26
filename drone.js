@@ -1,3 +1,4 @@
+//test ezafe shodan
 var crypto = require('crypto');
 var mysql = require('mysql');
 const InlineSearch = require('./class/inlinesearch.js')
